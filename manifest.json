@@ -1,0 +1,18 @@
+{
+    "format_version":2,
+    "header":{
+        "description":"Port by Local Oaf",
+        "name":"Deep Fried Minecraft",
+        "uuid":"6f1eb432-98e3-4274-99fa-4770b2ddd334",
+        "version":[0,0,1],
+        "min_engine_version":[1,26,0]
+    },
+    "modules":[
+        {
+            "description":"Deep Fried Minecraft",
+            "type":"resources",
+            "uuid":"0c2e7b6a-7acb-4663-b7d5-e67fd7ac2bd8",
+            "version":[0,0,1]
+        }
+    ]
+}
